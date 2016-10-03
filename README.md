@@ -1,1 +1,1 @@
-# A Movie Recommendation System
+# A Movie Recommendation System based on Multinomial Naive Bayes
