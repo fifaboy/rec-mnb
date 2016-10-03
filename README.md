@@ -15,3 +15,12 @@ On an average of these three datasets:
 # Randomness and Different Sets
 * Dataset was shuffled before doing the analysis.
 * 5-fold Cross Validation used for testing accuracy.
+
+# Dataset Credits
+
+INPROCEEDINGS\{guo2014etaf,
+      author = {Guo, G. and Zhang, J. and Thalmann, D. and Yorke-Smith, N.},
+      title = {ETAF: An Extended Trust Antecedents Framework for Trust Prediction},
+      booktitle = {Proceedings of the 2014 International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+      year = {2014}
+    } 
