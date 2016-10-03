@@ -1,0 +1,13 @@
+Mean Absolute Error in mv is 23.1460332948%
+Number of predictions with difference more than 1 is 16.653999999999996% in mv
+Number of accurate predictions is 40.132%
+
+Number of sets: 5Mean Absolute Error in ft is 23.7082796138%
+Number of predictions with difference more than 1 is 17.77896708324323% in ft
+Number of accurate predictions is 39.58362678536214%
+
+Number of sets: 5Mean Absolute Error in cd is 23.3790097557%
+Number of predictions with difference more than 1 is 17.054978325190945% in cd
+Number of accurate predictions is 39.986238216472856%
+
+Number of sets: 5
